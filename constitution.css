@@ -1,0 +1,40 @@
+/* format for a css is 
+selector{
+    property: value;
+    property2: value;
+ }
+  */
+
+  /* Body style - This will impact the whole page  */
+  body{
+    background-color: darkcyan;
+   /* Color is the text color */
+    color: beige;
+    /* Serif fonts are easier to read when you have a large chunk of text. */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* h1 is our heading 1 tag */
+h1{
+    font-size: xx-large;
+    color: azure;
+}
+/* h2 is the heading 2 */
+h2{
+    font-size: x-large;
+    color: chartreuse;
+}
+/* h3 */
+h3{
+font-size: large;
+color: crimson;
+}
+/* p is the paragraph */
+p{
+    margin: 10px;
+    font-size: large;
+}
+/* A is for anchor tag */
+a{
+    text-decoration: none;
+}
